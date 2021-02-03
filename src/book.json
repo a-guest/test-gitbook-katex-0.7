@@ -1,0 +1,5 @@
+{
+  "plugins": [
+    "katex@git+https://github.com/a-guest/plugin-katex.git#katex-v0.7.1"
+  ]
+}
